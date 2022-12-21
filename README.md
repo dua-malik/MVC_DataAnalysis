@@ -6,17 +6,22 @@
 ## Objective:
 
 In this project, I analyzed a dataset detailing motor vehicle collisions in the state of New York. The dataset spanned from the year 2012 to the present day. Each row represented a new collision (recorded daily). With over three million rows of data, I was tasked with extracting a subset of rows ranging from December 1st, 2019, to November 30th, 2021 to perform three separate analyses. Furthermore, I was responsible for analyzing data regarding the following vehicle makes which were used in the first two analyses:
+<br>
+
 1. Nissan
 2. Kia
 3. Hino
 4. GMC
+<br>
+
 Using this subset of data, I explored how many accidents each vehicle make was involved in during the period. The first analysis investigated vehicle collisions on a yearly basis. The second analysis was like the first, however this time, I was also interested in the number of vehicle collisions on a month-to-month basis. The third and final analysis focused on the vehicle type. In this analysis, I investigated the overall proportion of vehicle collisions in New York based on vehicle type.
 
 ## Summary and Findings: 
 
 ### Distribution of Accidents Between December 2019 and November 2021:
 
-<img align = "center" src="https://user-images.githubusercontent.com/98187080/201456568-838a4a52-c748-4246-b913-753e58771289.png" width=75% height=75%>
+<img align = "center" src="https://user-images.githubusercontent.com/Image 12-21-22 at 2.59 PM.jpg![image](https://user-images.githubusercontent.com/98187080/209002096-2246d985-8cb0-4538-b211-82b287ff7062.png)
+g" width=75% height=75%>
 <br>
 
 After conducting the first analysis on the dataset ranging from December 2019 - November 2021, it was evident that Nissan Vehicle Makes were disproportionately involved in accidents compared to GMC, HINO, and KIA. Although one might draw the conclusion that drivers that have a Nissan vehicle make are more likely to get into an accident, it is important to understand what type of vehicle a Nissan is. 
