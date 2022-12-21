@@ -1,7 +1,7 @@
 #  Exploring Motor Vehicle Collision Rates in New York:
 
 ## Tech-Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Objective:
 
@@ -20,8 +20,7 @@ Using this subset of data, I explored how many accidents each vehicle make was i
 
 ### Distribution of Accidents Between December 2019 and November 2021:
 
-<img align = "center" src="https://user-images.githubusercontent.com/Image 12-21-22 at 2.59 PM.jpg![image](https://user-images.githubusercontent.com/98187080/209002096-2246d985-8cb0-4538-b211-82b287ff7062.png)
-g" width=75% height=75%>
+<img align = "center" src="https://user-images.githubusercontent.com/Image 12-21-22 at 2.59 PM.jpg" width=75% height=75%>
 <br>
 
 After conducting the first analysis on the dataset ranging from December 2019 - November 2021, it was evident that Nissan Vehicle Makes were disproportionately involved in accidents compared to GMC, HINO, and KIA. Although one might draw the conclusion that drivers that have a Nissan vehicle make are more likely to get into an accident, it is important to understand what type of vehicle a Nissan is. 
